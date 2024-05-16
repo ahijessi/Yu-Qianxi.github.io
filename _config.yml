@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "China"
-title                    : "YU Qianxi"
+locale                   : "en-US"
+title                    : "YU Qianxi/Personal Homepage"
 title_separator          : "-"
 name                     : &name "YU Qianxi"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   pronouns         : "she/her"  
   bio              : "Enjoy challenges, enjoy gains"
   location         : "China"
-  uri              : https://YU-Qianxi.github.io
+  uri              : 
   email            : "yqx912@gmail.com" 
 
   # Academic websites
