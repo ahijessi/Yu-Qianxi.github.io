@@ -17,6 +17,6 @@ My interests lie in the language development of both typical and atypical childr
 
 With a background in Linguistics, especially in phonetics, I am also deeply interested in psychology and neuroscience. I look forward to engaging in more multidisciplinary projects in the future.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Qianxi's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 ————————————————
 
