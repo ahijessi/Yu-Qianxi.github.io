@@ -13,8 +13,8 @@ title_separator          : "-"
 name                     : &name "YU Qianxi"
 description              : &description "personal description"
 url                      : https://YU-Qianxi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YU-Qianxi/YU-Qianxi.github.io"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
+repository               : "YU Qianxi/YU Qianxi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -36,7 +36,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Qianxi-Yu"
+  researchgate     : #"https://www.researchgate.net/profile/Qianxi-Yu"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -119,8 +119,7 @@ yandex_site_verification :
 
 
 # Social Sharing
-twitter:
-  username               : &twitter
+twitter: # username
 facebook:
   username               :
   app_id                 :
